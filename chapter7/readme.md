@@ -1,0 +1,2 @@
+大概了解了tensorboard以及一些其他的可视化操作
+建议tensorboard一节还是看引用的原地址比较容易学习，原教程有些地方不太清楚，比如运行tensorboard命令，‘path/to/log’ 还是比较令初学者迷惑的
